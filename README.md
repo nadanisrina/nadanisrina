@@ -1,4 +1,7 @@
-Welcome, here's a random quote and meme for you
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+`Welcome, here's a random quote and meme for you`
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin)](https://github.com/piyushsuthar/github-readme-quotes)
 
