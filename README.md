@@ -1,7 +1,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Go           3 hrs 14 mins   █████████████████░░░░░░░░   68.07 %
+Makefile     57 mins         █████░░░░░░░░░░░░░░░░░░░░   20.09 %
+SQL          15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+Docker       10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+YAML         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
